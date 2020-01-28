@@ -85,11 +85,12 @@ div.module.parallax {
 }
 
 .MoneyEarn-banner9 .for-image .banner-image {
-    bottom: -5.5%;
+    bottom: -5.3%;
     right: 0;
     margin: 0;
     position: absolute;
     transform: translate(50%, 10%);
+    filter: drop-shadow(-8px -3px 5px rgb(34, 34, 34, 0.4))
 }
 
 
